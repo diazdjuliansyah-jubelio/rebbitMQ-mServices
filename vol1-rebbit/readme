@@ -1,0 +1,17 @@
+loogerMS
+
+- start with : nodemon server.js
+
+infoMS
+
+- start with : nodemon app.js
+
+// IN POSTMAN
+
+http://127.0.0.1:3000/sendLog (POST)
+
+This Request :
+{
+"logType":"Info",
+"message":"Success Download CUYYY !!!"
+}
